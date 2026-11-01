@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Ultra-Fast Manhwa & Comic Compression Engine (CBZ & PDF) with SIMD Acceleration and L3-Cache Tiling"
 readme = "README.md"
 authors = [
-    { name = "Jayprakash Pal", email = "jaypal24202899@gmail.com" }
+    { name = "Jayprakash Pal", email = "jaypal1046@gmail.com" }
 ]
 license = "MIT"
 classifiers = [
